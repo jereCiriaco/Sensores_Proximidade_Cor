@@ -15,8 +15,7 @@ O código `sensor_proximidade.ino` configura um sensor ultrassônico para medir 
 ## Configuração do Arduino 🛠️
 Os códigos assumem a utilização de componentes específicos, como sensores de cor e sensores ultrassônicos. Certifique-se de conectar os componentes de acordo com a pinagem especificada em cada código.
 
-## Contribuições 🤝
-Contribuições são bem-vindas! Se você faz parte da equipe AsimUFF ou deseja contribuir para melhorar os códigos do robô, sinta-se à vontade para abrir issues ou enviar pull requests.
+
 
 ---
 
